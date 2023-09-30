@@ -35,3 +35,4 @@ build/
 ### Customized ###
 /docker/postgresql/data
 /docker/.env
+/log
