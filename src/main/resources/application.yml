@@ -5,3 +5,7 @@ spring:
       active: dev
 server:
   port: 8181
+
+logging:
+  level:
+    root: info
